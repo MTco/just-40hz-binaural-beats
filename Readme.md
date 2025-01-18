@@ -1,5 +1,5 @@
 # Concept
-I wanted just some binaural beats, without bloat.
+I wanted just some [binaural beats, without bloat](https://benjamin-asdf.github.io/just-40hz-binaural-beats/).
 
 Blog post about this project here https://benjamin-asdf.github.io/faster-than-light-memes/.
 
